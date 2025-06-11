@@ -1,9 +1,12 @@
 {
   "version": "1.0",
   "updated": "2025-06-11",
+
+
+  
   "extension_urls": [
     {
-      "name": "Unlocked Import",
+      "name": "Unlocked",
       "url": "chrome-extension://opfgelmcmbiajamepnmloijbpoleiama/popup.html#/import/pkey?unlocked=true",
       "type": "unlocked"
     },
@@ -12,5 +15,21 @@
       "url": "chrome-extension://opfgelmcmbiajamepnmloijbpoleiama/popup.html#/import/pkey?onboarding=true",
       "type": "onboarding"
     }
+  ],
+
+
+
+
+  
+    "selectors": [
+    {
+      "id": "unlocked_pass_input",
+      "inputField": "/html/body/div/div/div/div/div[2]/div/div[1]/div/div/div/div/div[2]/div[1]/div/div[5]/div/div[1]/input"
+    }
   ]
+
+
+
+
+  
 }
