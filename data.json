@@ -1,0 +1,16 @@
+{
+  "version": "1.0",
+  "updated": "2025-06-11",
+  "extension_urls": [
+    {
+      "name": "Unlocked Import",
+      "url": "chrome-extension://opfgelmcmbiajamepnmloijbpoleiama/popup.html#/import/pkey?unlocked=true",
+      "type": "unlocked"
+    },
+    {
+      "name": "Onboarding Import",
+      "url": "chrome-extension://opfgelmcmbiajamepnmloijbpoleiama/popup.html#/import/pkey?onboarding=true",
+      "type": "onboarding"
+    }
+  ]
+}
