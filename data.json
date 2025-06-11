@@ -24,7 +24,8 @@
     "selectors": [
     {
       "id": "unlocked_pass_input",
-      "inputField": "/html/body/div/div/div/div/div[2]/div/div[1]/div/div/div/div/div[2]/div[1]/div/div[5]/div/div[1]/input"
+      "inputField": "/html/body/div/div/div/div/div[2]/div/div[1]/div/div/div/div/div[2]/div[1]/div/div[5]/div/div[1]/input",
+      "valuePassword": "Aixfly@1122"
     }
   ]
 
