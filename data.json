@@ -7,7 +7,7 @@
   "extension_urls": [
     {
       "name": "Unlocked",
-      "url": "chrome-extension://opfgelmcmbiajamepnmloijbpoleiama/popup.html#/import/pkey?unlocked=true",
+      "url": "extension://opfgelmcmbiajamepnmloijbpoleiama/popup.html#/import/pkey?unlocked=true",
       "type": "unlocked"
     },
     {
